@@ -1,9 +1,9 @@
 # Site settings
-baseurl = "https://dreamy-keller-711305.netlify.com/"
+baseurl = "https://joshuamangiola.com/"
 languageCode = "en"
 title = "Joshua Mangiola"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = "your_google_analytics_id"
+googleAnalytics = "UA-116955135-1"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
