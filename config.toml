@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "./"
+baseurl = "https://dreamy-keller-711305.netlify.com/"
 languageCode = "en"
 title = "Joshua Mangiola"
 theme = "hugo-theme-cactus-plus"
